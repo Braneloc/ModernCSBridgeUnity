@@ -1,7 +1,7 @@
 {
+  "version": "0.1.3",
   "name": "net.dreamjammers.unitysupport",
-  "displayName": "UnitySupport",
-  "version": "0.1.2",                // bump after every change
+  "displayName": "UnitySupport", 
   "unity": "6.0",             
   "description": "A starter package – runtime + editor.",
   "author": {
