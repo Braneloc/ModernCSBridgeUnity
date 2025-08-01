@@ -1,12 +1,11 @@
 {
-  "name": "com.mycompany.mypackage",
-  "displayName": "My Package",
-  "version": "0.1.0",
+  "name": "net.dreamjammers.unitysupport",
+  "displayName": "UnitySupport",
+  "version": "0.1.1",
   "unity": "6",
   "description": "A starter package – runtime + editor.",
   "author": {
-    "name": "Your Name",
-    "url": "https://github.com/yourname"
+    "name": "Braneloc / Keith Hill",
   },
   "type": "library"
 }
