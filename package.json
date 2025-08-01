@@ -1,0 +1,7 @@
+{
+  "name": "net.dreamjammers.unitysupport",
+  "displayName": "Unity Support (Polyfills + Editor Extensions)",
+  "version": "0.1.0",               // ▲ bump
+  "unity": "6",
+  "description": "Polyfills IsExternalInit and forces <LangVersion>latest</LangVersion>."
+}
