@@ -1,7 +1,12 @@
 {
-  "name": "net.dreamjammers.unitysupport",
-  "displayName": "Unity Support (Polyfills + Editor Extensions)",
-  "version": "0.1.0",               // ▲ bump
+  "name": "com.mycompany.mypackage",
+  "displayName": "My Package",
+  "version": "0.1.0",
   "unity": "6",
-  "description": "Polyfills IsExternalInit and forces <LangVersion>latest</LangVersion>."
+  "description": "A starter package – runtime + editor.",
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/yourname"
+  },
+  "type": "library"
 }
