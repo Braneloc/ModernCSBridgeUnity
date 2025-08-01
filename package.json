@@ -1,11 +1,11 @@
 {
   "name": "net.dreamjammers.unitysupport",
   "displayName": "UnitySupport",
-  "version": "0.1.1",
-  "unity": "6",
+  "version": "0.1.2",                // bump after every change
+  "unity": "6.0",             
   "description": "A starter package – runtime + editor.",
   "author": {
-    "name": "Braneloc / Keith Hill",
+    "name": "Braneloc / Keith Hill"
   },
   "type": "library"
 }
