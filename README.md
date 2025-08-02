@@ -4,10 +4,9 @@ A lightweight toolkit that bridges older Unity runtimes to modern C# language f
 
 ## Installation
 
-`Unity Editor → Window ▸ Package Manager →
- ➕ Add package from Git URL
+Unity Editor → Window ▸ Package Manager<br>
+➕ Add package from Git URL<br>
 https://github.com/Braneloc/ModernCSBridgeUnity.git
-`
 
 _Unity downloads the package and recompiles scripts automatically._
 
