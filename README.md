@@ -1,6 +1,6 @@
 ﻿# Modern CS Bridge for Unity
 
-A lightweight toolkit that bridges older Unity runtimes to modern C# language features.
+A lightweight toolkit that bridges Unity 6+ to modern C# language features.
 
 ## Installation
 
