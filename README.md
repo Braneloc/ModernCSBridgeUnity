@@ -12,7 +12,7 @@ _Unity downloads the package and recompiles scripts automatically._
 
 ## Features
 
-* Full usage of C# 10 for Unity
+* Full usage of C# 10+ for Unity
 * Support for records and init-only setters.
 
 ## Problems this project solves
@@ -22,7 +22,7 @@ _Unity downloads the package and recompiles scripts automatically._
 
 ## Usage
 
-* Every time Unity regenerates its C# project files, the bridge bumps the _LangVersion_ element to latest (currently C# 10 in Unity 6.2+). No manual action required.
+* Every time Unity regenerates its C# project files, the bridge bumps the _LangVersion_ element to latest version of C#. No manual action required.
 
 * Manual stub generation  
 Right‑click any folder in the Project window and choose either menu path:  
