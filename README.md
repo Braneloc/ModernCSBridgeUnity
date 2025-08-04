@@ -30,6 +30,7 @@ Create ▸ Support Code ▸ IsExternalInit
 Create ▸ Scripting ▸ IsExternalInit    
 _If IsExternalInit.cs already exists in that folder, the command overwrites it in place.
 The stub is wrapped in #if !NET8_0_OR_GREATER, so it compiles away automatically once Unity moves to a .NET 8‑based runtime that includes the real type._
+* Bonus: Under Unity Project Settings, Player, it might be helpful to add under additonal compiler arguments: _-langversion:latest_
 
 ## Party on dudes  
 ![](https://avatars.githubusercontent.com/u/9757397?s=96&v=4)
