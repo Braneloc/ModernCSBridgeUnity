@@ -9,6 +9,7 @@ Unity Editor → Window ▸ Package Manager<br>
 https://github.com/Braneloc/ModernCSBridgeUnity.git
 
 _Unity downloads the package and recompiles scripts automatically._
+_Your project must be compiling correctly while installing_
 
 ## Features
 
