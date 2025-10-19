@@ -1,5 +1,5 @@
 {
-    "name": "ModernCSBridge.Editor",
+    "name": "Exo-Labs.ModernCSBridge.Editor",
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
