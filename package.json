@@ -1,5 +1,5 @@
 {
-  "version": "0.9.6",
+  "version": "0.9.7",
   "name": "uk.exo-labs.moderncsbridge",
   "displayName": "Modern CS Bridge",
   "description": "Editor helper to update projects to use C# 10 (latest)\nAdds Create ▸ Support Code ▸ IsExternalInit to the Project window.\nAdds Create ▸ Scripting ▸ IsExternalInit to the Project window. ",
