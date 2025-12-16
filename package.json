@@ -1,8 +1,8 @@
 {
-  "version": "0.9.7",
+  "version": "1.0.0",
   "name": "uk.exo-labs.moderncsbridge",
-  "displayName": "Modern CS Bridge",
-  "description": "Editor helper to update projects to use C# 10 (latest)\nAdds Create ▸ Support Code ▸ IsExternalInit to the Project window.\nAdds Create ▸ Scripting ▸ IsExternalInit to the Project window. ",
+  "displayName": "Exo-Labs Modern CS Bridge",
+  "description": "Editor helper to update projects to use C# 10 (latest)\nAdds Create \u25b8 Support Code \u25b8 IsExternalInit to the Project window.\nAdds Create \u25b8 Scripting \u25b8 IsExternalInit to the Project window.",
   "author": {
     "name": "Braneloc"
   },
