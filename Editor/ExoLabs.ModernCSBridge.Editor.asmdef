@@ -1,9 +1,10 @@
 {
-    "name": "Exo-Labs.ModernCSBridge.Editor",
-    "rootNamespace": "",
+    "name": "ExoLabs.ModernCSBridge.Editor",
+    "rootNamespace": "ExoLabs",
     "references": [],
     "includePlatforms": [
-      "Editor"],
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
