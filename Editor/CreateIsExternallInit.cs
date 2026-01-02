@@ -3,6 +3,9 @@
 using UnityEditor;
 namespace UnitySupport.Editor
 {
+
+
+
     static class CreateIsExternalInit
     {
         const string filename = "IsExternalInit.cs";
@@ -51,4 +54,5 @@ namespace System.Runtime.CompilerServices
                 "Close");
         }
     }
+
 }
