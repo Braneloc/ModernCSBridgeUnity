@@ -31,6 +31,7 @@ Right‑click any folder in the Project window and choose either menu path:
 Create ▸ Support Code ▸ IsExternalInit  
 Create ▸ Scripting ▸ IsExternalInit    
 _If IsExternalInit.cs already exists in that folder, the command overwrites it in place.
+There is also an option to create the csc.rsp in the ROOT folder of your ASSETS if project alteration is not working as expected.
 The stub is wrapped in #if !NET8_0_OR_GREATER, so it compiles away automatically once Unity moves to a .NET 8‑based runtime that includes the real type._
 * Bonus: Under Unity Project Settings, Player, it might be helpful to add under additonal compiler arguments:  
   _-langversion:latest_
