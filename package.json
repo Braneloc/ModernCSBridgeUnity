@@ -1,11 +1,12 @@
 {
-  "version": "1.1.1",
+  "version": "1.1.2",
   "name": "uk.exo-labs.moderncsbridge",
   "displayName": "Exo-Labs Modern CS Bridge",
-  "description": "Editor helper to update projects to use C# 10 (latest)\nAdds Create \u25b8 Support Code \u25b8 IsExternalInit to the Project window.\nAdds Create \u25b8 Scripting \u25b8 IsExternalInit abd csc.rsp to the Project window.",
+  "description": "Editor helper to update projects to use C# 10 (latest)\nAdds Create \u25b8 Support Code \u25b8 IsExternalInit to the Project window.\nAdds Create \u25b8 Scripting \u25b8 IsExternalInit abd csc.rsp to the Project window.\nAdds Create \u25b8 Support Code \u25b8 csc.rsp to the Project window.\nAdds Create \u25b8 Scripting \u25b8  csc.rsp to the Project window.",
   "author": {
     "name": "Braneloc"
   },
   "unity": "6000.0",
-  "hideInEditor": false
+  "hideInEditor": false,
+  "documentationUrl": "https://github.com/Braneloc/ModernCSBridgeUnity/blob/main/README.md"
 }
