@@ -1,6 +1,7 @@
 # Modern CS Bridge for Unity
 
 A lightweight toolkit that bridges Unity 6+ to modern C# language features.
+Hopefully obsoleted by Unity 7 Core CLR.
 
 ## Installation
 
