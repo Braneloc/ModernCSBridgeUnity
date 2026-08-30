@@ -11,7 +11,7 @@ https://github.com/Braneloc/ModernCSBridgeUnity.git
 
 _Unity downloads the package and recompiles scripts automatically._
 
-_*Your project **must ** be compiling correctly before/while installing (ie not using C#10+ features)*_
+_*Your project **must** be compiling correctly before and during installation (i.e., not already using C# 10+ features).*_
 
 ## Features
 
@@ -25,7 +25,7 @@ _*Your project **must ** be compiling correctly before/while installing (ie not 
 
 ## Usage
 
-* Every time Unity regenerates its C# project files, the bridge bumps the _LangVersion_ element to latest version of C#. No manual action required.
+* Every time Unity regenerates its C# project files, the bridge sets the _LangVersion_ element to the latest supported version of C#. No manual action is required.
 
 * Manual stub generation  
 Right‑click any folder in the Project window and choose either menu path:  
@@ -37,7 +37,7 @@ The stub is wrapped in #if !NET8_0_OR_GREATER, so it compiles away automaticall
   Right‑click either the root or assembly folder in the Project window and choose either menu path:  
   Create ▸ Support Code ▸ csc.rsp<br>
   Create ▸ Scripting ▸ csc.rsp    
-* Bonus: Under Unity Project Settings, Player, it might be helpful to add under additonal compiler arguments:  
+* Bonus: Under Unity Project Settings > Player, it might be helpful to add under additional compiler arguments:
   _-langversion:latest_
 
 ## Party on dudes  

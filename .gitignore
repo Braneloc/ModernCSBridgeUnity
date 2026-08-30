@@ -79,7 +79,7 @@ crashlytics-build.properties
 # TestRunner generated files
 InitTestScene*.unity*
 
-# Addressables default ignores, before user customizations
+# Addressables default ignores, before user customisations
 /ServerData
 /[Aa]ssets/StreamingAssets/aa*
 /[Aa]ssets/AddressableAssetsData/link.xml*
